@@ -1,0 +1,10 @@
+# Arquivo de exemplo para importação de passageiros
+# Formato: nome;documento;login;senha;nascimento(dd/MM/yyyy)
+#
+# Exemplos:
+João Silva;12345678900;joao;senha123;15/03/1990
+Maria Santos;98765432100;maria;senha456;20/07/1985
+Pedro Oliveira;11122233344;pedro;senha789;10/12/1995
+Ana Costa;55566677788;ana;senha321
+#
+# Cole novos passageiros abaixo:

@@ -1,0 +1,14 @@
+
+# Pastas de compilação (NetBeans e IntelliJ)
+build/
+dist/
+out/
+
+# Configurações locais e privadas de IDEs
+nbproject/private/
+nbproject/project.xml.user
+.idea/
+*.iml
+
+# Relatórios e arquivos gerados automaticamente pelo sistema
+*.pdf
